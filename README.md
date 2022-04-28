@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mardough
+- 👋 Hi, I’m Marley!
 - 👀 I’m an API Developer at Cortica!
-- 🌱 I’m currently learning python!
+- 🌱 I’m interested in learning python!
 - 📫 Let's connect! mdoughty@corticacare.com
 
 <!---
